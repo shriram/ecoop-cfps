@@ -10,7 +10,7 @@ Most of all, it shows that these program chairs—wonderful people, all—just c
 
 I've taken as a baseline 2010:
 
-[Actual CfP](http://scc-sentinel.lancs.ac.uk/ecoop11/?q=calls/research)
+[Actual CfP](http://ecoop2010.uni-mb.si/call_for_papers.html) (Theo D'Hondt, chair)
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/954d9ca8b7512c13bd91c6edadbf9f0c370d7220/cfp.txt)
 
