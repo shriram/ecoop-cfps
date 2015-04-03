@@ -1,0 +1,20 @@
+2010
+
+http://ecoop2010.uni-mb.si/call_for_papers.html
+
+ECOOP wishes to embrace a broad range of topics, so the following list of suggested topics is by no means exclusive. 
+
+* Analysis, design methods and design patterns
+* Concurrent, real-time or parallel systems
+* Databases, persistence and transactions
+* Distributed and mobile systems
+* Frameworks, product lines and software architectures
+* Language design and implementation
+* Testing and metrics
+* Programming environments and tools
+* Theoretical foundations, type systems, formal methods
+* Versioning, compatibility, software evolution
+* Aspects, components, modularity, reflection
+* Collaboration, workflow
+* Transcending the limitations of object-oriented programming
+* Empirical studies of object-oriented programming
