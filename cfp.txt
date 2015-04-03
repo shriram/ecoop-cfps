@@ -1,27 +1,27 @@
-2014
+2015
 
-http://ecoop14.it.uu.se/calls/technical-papers.php
+http://2015.ecoop.org/track/research-track#Call-for-Papers
 
-It will embrace a broad range of topics related to object-orientation, including:
+ECOOP 2015 will embrace a broad range of topics related to object-orientation, including:
 
 * Concurrent and parallel systems
 * Distributed and cloud computing, mobile systems
-* Service-oriented and web Programming
+* Service-oriented and web programming
 * Programming environments
 * Versioning, refactoring, software evolution
 * Language definition and design, domain-specific languages
 * Language implementation, execution environments, compiler construction
 * Memory management, garbage collection
-* Testing, debugging, profiling, and performance analysis
-* Metrics and empirical studies
-* Design methods and design patterns
-* Aspects, components, modularity, and reflection
+* Testing, debugging, profiling, performance analysis
+* Metrics, empirical studies
+* Design methods, design patterns
+* Aspects, components, modularity, reflection
 * Software modelling, meta-modelling
-* Frameworks, product lines, and software architectures
-* Theoretical foundations, program analysis, and type systems
+* Frameworks, product lines, software architectures
+* Theoretical foundations, type systems, ownership
+* Program analysis, abstract interpretation
 * Specification, verification, model checking, program synthesis
-* Object ownership
 * Security
 * Real-time systems
-* Databases and object persistence
+* Databases, object persistence
 * Energy-aware software
