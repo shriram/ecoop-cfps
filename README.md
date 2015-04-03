@@ -1,6 +1,10 @@
 # Purpose
 
-This repository shows the evolution of the [ECOOP conference](http://www.ecoop.org/)'s Calls for Papers over the six year period from 2010 through 2015. Program chairs just can't help putting their stamp on the Call!
+This repository shows the evolution of the [ECOOP conference](http://www.ecoop.org/)'s Calls for Papers over the six year period from 2010 through 2015.
+
+Note that this is not the entire CfP; this is just the laundry-list section that lists all the areas the conference is (_not exclusively_) interested in. These lists make for fascinating reading because they reveal a good deal about what was considered interesting, important, or hot at a given time, combined with the composition of the PC. (When you see especially narrow topics listed, you can usually find that the person working on that topic was on that PC or chaired it.)
+
+Most of all, it shows that these program chairs—wonderful people, all—just can't help putting their stamp on the Call!
 
 # Baseline
 
