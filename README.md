@@ -1,6 +1,6 @@
 # Quick Links
 
-If you already know what this is about, go directly to the changes:
+If you already know what this is about, go directly to the deltas:
 
 [**2010 to 2011**](https://github.com/shriram/ecoop-cfps/commit/063ee710952f905e53acf19b7736f2a8572802c7)
 
