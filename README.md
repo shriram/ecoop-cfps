@@ -1,3 +1,17 @@
+# Quick Links
+
+If you already know what this is about, go directly to the changes:
+
+[**2010 to 2011**](https://github.com/shriram/ecoop-cfps/commit/063ee710952f905e53acf19b7736f2a8572802c7)
+
+[**2011 to 2012**](https://github.com/shriram/ecoop-cfps/commit/d609f26a13aef38df226f38576d36ebd702cb706)
+
+[**2012 to 2013**](https://github.com/shriram/ecoop-cfps/commit/65764f3ee79e433b910d0e15f60caefdce4b9248)
+
+[**2013 to 2014**](https://github.com/shriram/ecoop-cfps/commit/10d5c008dbb27f3b224ca0ea80d57ee97e4ba8f7)
+
+[**2014 to 2015**](https://github.com/shriram/ecoop-cfps/commit/de5bcaca6a5cee0a3bb429d2f023414b3a873eb9)
+
 # Purpose
 
 This repository shows the evolution of the [ECOOP conference](http://www.ecoop.org/)'s Calls for Papers over the six year period from 2010 through 2015.
