@@ -1,12 +1,12 @@
-2011
+2012
 
-http://scc-sentinel.lancs.ac.uk/ecoop11/?q=calls/research
+http://ecoop12.cs.purdue.edu/content/call-papers
 
-ECOOP 2011 wishes to embrace a broad range of topics related to object-orientation, so the following list of suggested topics is by no means exclusive.
+ECOOP 2012 embraces a broad range of topics related to object-orientation, including:
 
 * Analysis and design methods and patterns
 * Databases, persistence, transactions
-* Distributed, concurrent, mobile, real-time systems
+* Concurrent, parallel, distributed, mobile, and real-time systems
 * Empirical and application studies
 * Frameworks, product lines, software architectures
 * Language design and implementation
