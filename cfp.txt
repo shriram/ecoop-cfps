@@ -1,20 +1,17 @@
-2010
+2011
 
-http://ecoop2010.uni-mb.si/call_for_papers.html
+http://scc-sentinel.lancs.ac.uk/ecoop11/?q=calls/research
 
-ECOOP wishes to embrace a broad range of topics, so the following list of suggested topics is by no means exclusive. 
+ECOOP 2011 wishes to embrace a broad range of topics related to object-orientation, so the following list of suggested topics is by no means exclusive.
 
-* Analysis, design methods and design patterns
-* Concurrent, real-time or parallel systems
-* Databases, persistence and transactions
-* Distributed and mobile systems
-* Frameworks, product lines and software architectures
+* Analysis and design methods and patterns
+* Databases, persistence, transactions
+* Distributed, concurrent, mobile, real-time systems
+* Empirical and application studies
+* Frameworks, product lines, software architectures
 * Language design and implementation
-* Testing and metrics
-* Programming environments and tools
+* Modularity, aspects, features, components, services, reflection
+* Software development environments and tools
+* Static and dynamic software analysis, testing, and metrics
 * Theoretical foundations, type systems, formal methods
 * Versioning, compatibility, software evolution
-* Aspects, components, modularity, reflection
-* Collaboration, workflow
-* Transcending the limitations of object-oriented programming
-* Empirical studies of object-oriented programming
