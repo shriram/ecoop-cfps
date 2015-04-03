@@ -24,7 +24,7 @@ I've taken as a baseline 2010:
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/063ee710952f905e53acf19b7736f2a8572802c7/cfp.txt)
 
-[2010 to 2011](https://github.com/shriram/ecoop-cfps/commit/063ee710952f905e53acf19b7736f2a8572802c7)
+[*2010 to 2011*](https://github.com/shriram/ecoop-cfps/commit/063ee710952f905e53acf19b7736f2a8572802c7)
 
 ## 2012
 
@@ -32,7 +32,7 @@ I've taken as a baseline 2010:
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/d609f26a13aef38df226f38576d36ebd702cb706/cfp.txt)
 
-[2011 to 2012](https://github.com/shriram/ecoop-cfps/commit/d609f26a13aef38df226f38576d36ebd702cb706)
+[*2011 to 2012*](https://github.com/shriram/ecoop-cfps/commit/d609f26a13aef38df226f38576d36ebd702cb706)
 
 ## 2013
 
@@ -42,7 +42,7 @@ This was the big one (Git: `rewrite cfp.txt (99%)`):
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/65764f3ee79e433b910d0e15f60caefdce4b9248/cfp.txt)
 
-[2012 to 2013](https://github.com/shriram/ecoop-cfps/commit/65764f3ee79e433b910d0e15f60caefdce4b9248)
+[*2012 to 2013*](https://github.com/shriram/ecoop-cfps/commit/65764f3ee79e433b910d0e15f60caefdce4b9248)
 
 ## 2014
 
@@ -50,7 +50,7 @@ This was the big one (Git: `rewrite cfp.txt (99%)`):
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/10d5c008dbb27f3b224ca0ea80d57ee97e4ba8f7/cfp.txt)
 
-[2013 to 2014](https://github.com/shriram/ecoop-cfps/commit/10d5c008dbb27f3b224ca0ea80d57ee97e4ba8f7)
+[*2013 to 2014*](https://github.com/shriram/ecoop-cfps/commit/10d5c008dbb27f3b224ca0ea80d57ee97e4ba8f7)
 
 ## 2015
 
@@ -58,4 +58,4 @@ This was the big one (Git: `rewrite cfp.txt (99%)`):
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/de5bcaca6a5cee0a3bb429d2f023414b3a873eb9/cfp.txt)
 
-[2014 to 2015](https://github.com/shriram/ecoop-cfps/commit/de5bcaca6a5cee0a3bb429d2f023414b3a873eb9)
+[*2014 to 2015*](https://github.com/shriram/ecoop-cfps/commit/de5bcaca6a5cee0a3bb429d2f023414b3a873eb9)
