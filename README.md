@@ -20,7 +20,7 @@ I've taken as a baseline 2010:
 
 (Git: `rewrite cfp.txt (81%)`)
 
-[Actual CfP](http://scc-sentinel.lancs.ac.uk/ecoop11/?q=calls/research)
+[Actual CfP](http://scc-sentinel.lancs.ac.uk/ecoop11/?q=calls/research) (Mira Mezini, chair)
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/063ee710952f905e53acf19b7736f2a8572802c7/cfp.txt)
 
@@ -28,7 +28,7 @@ I've taken as a baseline 2010:
 
 ## 2012
 
-[Actual CfP](http://ecoop12.cs.purdue.edu/content/call-papers)
+[Actual CfP](http://ecoop12.cs.purdue.edu/content/call-papers) (James Noble, chair)
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/d609f26a13aef38df226f38576d36ebd702cb706/cfp.txt)
 
@@ -38,7 +38,7 @@ I've taken as a baseline 2010:
 
 This was the big one (Git: `rewrite cfp.txt (99%)`): 
 
-[Actual CfP](http://www.lirmm.fr/ecoop13/index.php/conference-papers.html)
+[Actual CfP](http://www.lirmm.fr/ecoop13/index.php/conference-papers.html) (Giuseppe Castagna, chair)
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/65764f3ee79e433b910d0e15f60caefdce4b9248/cfp.txt)
 
@@ -46,7 +46,7 @@ This was the big one (Git: `rewrite cfp.txt (99%)`):
 
 ## 2014
 
-[Actual CfP](http://ecoop14.it.uu.se/calls/technical-papers.php)
+[Actual CfP](http://ecoop14.it.uu.se/calls/technical-papers.php) (Richard Jones, chair)
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/10d5c008dbb27f3b224ca0ea80d57ee97e4ba8f7/cfp.txt)
 
@@ -54,7 +54,7 @@ This was the big one (Git: `rewrite cfp.txt (99%)`):
 
 ## 2015
 
-[Actual CfP](http://2015.ecoop.org/track/research-track#Call-for-Papers)
+[Actual CfP](http://2015.ecoop.org/track/research-track#Call-for-Papers) (John Boyland, chair)
 
 [Relevant excerpt](https://github.com/shriram/ecoop-cfps/blob/de5bcaca6a5cee0a3bb429d2f023414b3a873eb9/cfp.txt)
 
