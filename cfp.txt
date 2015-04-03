@@ -1,26 +1,27 @@
-2013
+2014
 
-http://www.lirmm.fr/ecoop13/index.php/conference-papers.html
+http://ecoop14.it.uu.se/calls/technical-papers.php
 
-The 2013 edition will be the 27th of the ECOOP conferences series and will embrace a broad range of topics related to object-orientation, including:
+It will embrace a broad range of topics related to object-orientation, including:
 
-* Aspects, components, modularity, and reflection
 * Concurrent and parallel systems
-* Databases and object persistence
 * Distributed and cloud computing, mobile systems
-* Programming environments, virtualization
+* Service-oriented and web Programming
+* Programming environments
 * Versioning, refactoring, software evolution
-* Language definition and design
+* Language definition and design, domain-specific languages
 * Language implementation, execution environments, compiler construction
-* Testing, profiling, and performance analysis
-* Metrics and empirical studies
-* Software modeling, meta-modelling
 * Memory management, garbage collection
-* Object ownership
+* Testing, debugging, profiling, and performance analysis
+* Metrics and empirical studies
 * Design methods and design patterns
-* Real-time systems
-* Security
+* Aspects, components, modularity, and reflection
+* Software modelling, meta-modelling
 * Frameworks, product lines, and software architectures
-* Specification, verification, model checking, program synthesis
 * Theoretical foundations, program analysis, and type systems
-* Service-oriented and Web programming
+* Specification, verification, model checking, program synthesis
+* Object ownership
+* Security
+* Real-time systems
+* Databases and object persistence
+* Energy-aware software
